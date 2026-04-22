@@ -1,0 +1,2 @@
+# pati
+Kod.mob.edu
